@@ -1,4 +1,4 @@
-# Implementation of unsupervised machine learning techniques
+# WIP: Implementation of unsupervised machine learning techniques
 A notebook with implementation of unsupervised techniques in a docker environment. Notebook 
 includes:
 
